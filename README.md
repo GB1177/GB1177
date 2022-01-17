@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel
-- 👀 I’m interested in ... Graphic Design, Front end Developer
-- 🌱 I’m currently learning ... Java Script, HTML, CSS, Bootstrap, Ajax,modern java Script, ECMAscript, object-oriented  and Jquery
+- 👀 I’m interested in ...Front end Developer
+- 🌱 I’m currently learning ... Java Script, HTML, CSS, Bootstrap,modern java Script,Angular, object-oriented  and Jquery
 - 💞️ I’m looking to collaborate on ... Front End jobs
 - 📫 How to reach me ... Email: gdd_11@hotmail.com      
 
